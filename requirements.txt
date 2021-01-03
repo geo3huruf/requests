@@ -1,9 +1,8 @@
-aniso8601==1.1.0
 beautifulsoup4==4.6.3
 click==6.6
 gunicorn==19.6.0
 itsdangerous==0.24
-python-dateutil==2.5.3
+python-dateutil
 six==1.15.0
 rsa==4.0
 Werkzeug==0.11.10
@@ -46,3 +45,4 @@ gtts
 wikiapi
 wikipedia
 kbbi
+googletrans
